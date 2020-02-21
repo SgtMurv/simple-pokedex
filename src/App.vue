@@ -13,7 +13,7 @@
 
 <script>
 import Pokemon from "./components/Pokemon";
-import axios from "axios"; // library to make HTTP requests
+import axios from "axios"; // used to make HTTP requests
 
 export default {
   name: "App",
